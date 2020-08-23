@@ -26,11 +26,11 @@ To build for production, run build:
 ```
 $ npm run build
 ```
-# Dev Info
+## Dev Info
 
 Develop Web Blog with NodeJs Express and DevBlog template.
 
-# Refereces
+## Refereces
 
 You can watch the tutorial for this app.
 
