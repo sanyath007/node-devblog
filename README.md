@@ -1,4 +1,4 @@
-# node-dev-blog
+# node-devblog
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
@@ -26,4 +26,12 @@ To build for production, run build:
 ```
 $ npm run build
 ```
-# node-devblog
+# Dev Info
+
+Develop Web Blog with NodeJs Express and DevBlog template.
+
+# Refereces
+
+You can watch the tutorial for this app.
+
+https://youtu.be/uOwNY4qmOgU
